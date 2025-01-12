@@ -3,6 +3,6 @@ keras
 pandas
 numpy
 jupyter
-notebook
+notebook 
 tqdm
-opencv-contrib-python 
+opencv-contrib-python
